@@ -8,7 +8,7 @@ The project compiled for Windows (64 bit) can be downloaded from here: https://d
 Note that the file comes as a .zipp in order to prevent programs like Gmail for freaking out over an executable, so the extension must be changed to .zip before opening.
 
 ## Compiling the Code
-The code was written in Processing, which can be downloaded at [https://processing.org/download/](https://processing.org/download/). CUSTOM_3D is the main file, and as required by Processing, it is located within a folder of the same name. In addition, the Minim libaray will have to be installed in order to run the program. To do this, in the Processing menu, go to Sketch > Import Library > Add Library, and in the "Contribution Manager" window that appears, select "Minim
+The code was written in Processing, which can be downloaded at [https://processing.org/download/](https://processing.org/download/). CUSTOM_3D is the main file, and as required by Processing, it is located within a folder of the same name. In addition, the Minim libaray will have to be installed in order to run the program. To do this, in the Processing menu, go to Sketch > Import Library > Add Library, and in the "Contribution Manager" window that appears, select "Minim". The project should now be ready to be run or compiled from within Processing.
 
 ## Features
 - Rendered in glorious 3d, using only 2d draw methods.
